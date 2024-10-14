@@ -1,4 +1,7 @@
 # VOS-MORPC-AI-Internship
+
+-> Village Of Somerset / Mid-Ohio Regional Planning Commission
+
 Historical General Sheridan LLM for internship LLaMA With LangChain Integration
 
 The General Sheridan Project is a complex AI and historical simulation tool designed to create interactive experiences with historical figures like General Philip Sheridan. The project focuses on running and fine-tuning large language models (LLMs) like LLaMA to generate text-based interactions that reflect the personality and historical knowledge of the character. 
