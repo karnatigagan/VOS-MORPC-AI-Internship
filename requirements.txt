@@ -1,0 +1,6 @@
+langchain == 0.2.8
+langchain-community == 0.2.7
+langchainhub == 0.1.20
+langchain-chroma == 0.1.2
+unstructured[txt] == 0.14.10
+sanic[ext] == 24.6.0

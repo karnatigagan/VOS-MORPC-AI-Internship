@@ -1,0 +1,672 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Report rdf:about="https://archive.org/details/recordofengageme00unitrich">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago, Illinois</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheridan</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Record of Engagements with Hostile Indians within the Military Division of the Missouri from 1868 to 1882</dc:title>
+        <dc:date>August 1st, 1882</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://archive.org/details/recordofengageme00unitrich</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>120</bib:pages>
+    </bib:Report>
+    <bib:Book rdf:about="https://www.gutenberg.org/ebooks/4362">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Charles L. Webster &amp; Company</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheridan</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Personal Memoirs of P. H. Sheridan</dc:title>
+        <dc:date>1888</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.gutenberg.org/ebooks/4362</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:volume>2</prism:volume>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <z:numPages>486</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_438">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Charles L. Webster &amp; Company</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheridan</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Personal Memoirs of P. H. Sheridan</dc:title>
+        <dc:date>1888</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.gutenberg.org/ebooks/4362</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:volume>1</prism:volume>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <z:numPages>500</z:numPages>
+    </bib:Book>
+    <rdf:Description rdf:about="https://en.wikipedia.org/w/index.php?title=Philip_Sheridan&amp;oldid=1232421371">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_440"/>
+        <dc:title>Philip Sheridan</dc:title>
+        <dcterms:abstract>Philip Henry Sheridan (March 6, 1831 – August 5, 1888) was a career United States Army officer and a Union general in the American Civil War. His career was noted for his rapid rise to major general and his close association with General-in-chief Ulysses S. Grant, who transferred Sheridan from command of an infantry division in the Western Theater to lead the Cavalry Corps of the Army of the Potomac in the East. In 1864, he defeated Confederate forces under General Jubal Early in the Shenandoah Valley and his destruction of the economic infrastructure of the Valley, called &quot;The Burning&quot; by residents, was one of the first uses of scorched-earth tactics in the war. In 1865, his cavalry pursued Gen. Robert E. Lee and was instrumental in forcing his surrender at Appomattox Courthouse.
+Sheridan waged war on the Native Americans during the Indian Wars of the Great Plains. He was instrumental in the development and protection of Yellowstone National Park, both as a soldier and a private citizen. In 1883, Sheridan was appointed general-in-chief of the U.S. Army, and in 1888 he was promoted to the rank of General of the Army during the term of President Grover Cleveland.
+
+Sheridan  was born in Albany, New York, on March 6, 1831, the third of six children of John and Mary Meenagh Sheridan, Irish Catholic immigrants from  Killinkere parish in County Cavan, Ireland. He grew up in Somerset, Ohio. Small in stature, he reached only 5 feet 5 inches (165 cm) tall, earning him the nickname, &quot;Little Phil.&quot; Abraham Lincoln described his appearance in a famous anecdote: &quot;A brown, chunky little chap, with a long body, short legs, not enough neck to hang him, and such long arms that if his ankles itch he can scratch them without stooping.&quot;
+As a boy, Sheridan worked in a general store and later as head clerk and bookkeeper at a dry goods store. In 1848, he obtained an appointment to the United States Military Academy in West Point, New York, from a nomination from one of his customers, U.S. Congressman Thomas Ritchey, whose first candidate was disqualified after failing a mathematics examination and reportedly displayed a &quot;poor attitude.&quot; In his fourth year at West Point, Sheridan was suspended for a year for fighting with classmate William R. Terrill. The previous day, Sheridan had threatened to run him through with a fixed bayonet in reaction to a perceived insult on the parade ground. He graduated in 1853, 34th in his class of 52 cadets.
+Sheridan was commissioned as a brevet second lieutenant and was assigned to the 1st U.S. Infantry Regiment at Fort Duncan in Eagle Pass, Texas, then to the 4th U.S. Infantry Regiment at Fort Reading in Anderson, California. Most of his service with the 4th Infantry was in the Pacific Northwest, starting with a topographical survey mission to the Willamette Valley in 1855, during which he became involved with the Yakima War and Rogue River Wars, gaining experience in leading small combat team and some diplomatic skills in his negotiations with Indian tribes. On March 28, 1857, he was wounded when a bullet grazed his nose at Middle Cascade, Oregon Territory. He and an Indian woman from Rogue River lived together during part of his tour of duty. Named Frances by her white friends, she was the daughter of Takelma Chief Harney.
+In March 1861, just before the beginning the American Civil War, Sheridan was promoted to first lieutenant, and then to captain in May, just weeks after the war commenced following the Confederate attack on Fort Sumter.
+
+In the fall of 1861, Sheridan was ordered to travel to Jefferson Barracks, near St. Louis, Missouri, for assignment to the 13th U.S. Infantry. He departed from his command of Fort Yamhill in Oregon by way of San Francisco, across the Isthmus of Panama, and through New York City to home in Somerset for a brief leave. On the way to his new post, he made a courtesy call to Maj. Gen. Henry W. Halleck in St. Louis, who commandeered his services to audit the financial records of his immediate predecessor, Maj. Gen. John C. Frémont, whose administration of the Department of the Missouri was tainted by charges of wasteful expenditures and fraud that left the status of $12 million in debt. Sheridan sorted out the mess, impressing Halleck in the process. Much to Sheridan's dismay, Halleck's vision for Sheridan consisted of a continuing role as a staff officer. Nevertheless, Sheridan performed the task assigned to him and entrenched himself as an excellent staff officer in Halleck's view.
+In December, Sheridan was appointed chief commissary officer of the Army of Southwest Missouri, but convinced the department commander, Halleck, to also give him the position of quartermaster general. In January 1862, he reported for duty to Maj. Gen. Samuel Curtis and served under him at the Battle of Pea Ridge. Sheridan soon discovered that officers were engaged in profiteering, including stealing horses from civilians and demanding payment from Sheridan. He refused to pay for the stolen property and confiscated the horses for the use of Curtis's army. When Curtis ordered him to pay the officers, Sheridan brusquely responded, &quot;No authority can compel me to jayhawk or steal.&quot; Curtis had Sheridan arrested for insubordination but Halleck's influence appears to have ended any formal proceedings. Sheridan performed aptly in his role under Curtis, and then returned to Halleck's headquarters to accompany the army on the Siege of Corinth and serve as an assistant to the department's topographical engineer. He made the acquaintance of Brig. Gen. William T. Sherman, who offered him the role of colonel in an Ohio infantry regiment. The appointment fell through, but Sheridan was subsequently aided by friends, including future Secretary of War Russell A. Alger, who petitioned Michigan Governor Austin Blair on his behalf. Sheridan was appointed colonel of the 2nd Michigan Cavalry on May 27, 1862, despite having no experience in the mounted arm.
+
+A month later, Sheridan commanded his first forces in combat, leading a small brigade that included his regiment. At the Battle of Booneville, Mississippi, July 1, 1862, he held back several regiments of Brig. Gen. James R. Chalmers's Confederate cavalry, deflected a large flanking attack with a noisy diversion, and reported critical intelligence about enemy dispositions. His actions so impressed the division commanders, including Brig. Gen. William S. Rosecrans, that they recommended Sheridan's promotion to brigadier general. They wrote to Halleck, &quot;Brigadiers scarce; good ones scarce. ... The undersigned respectfully beg that you will obtain the promotion of Sheridan. He is worth his weight in gold.&quot; The promotion was approved in September, but dated effective July 1 as a reward for his actions at Booneville. After Booneville, one of his fellow officers gave him the horse that he named Rienzi after the skirmish of Rienzi, Mississippi, which he rode throughout the Civil War.
+Sheridan was assigned to command the 11th Division, III Corps, in Maj. Gen. Don Carlos Buell's Army of the Ohio. On October 8, 1862, Sheridan led his division in the Battle of Perryville. Under orders from Buell and his corps commander, Maj. Gen. Charles Gilbert, Sheridan sent Col. Daniel McCook's brigade to secure a water supply for the army. McCook drove off the Confederates and secured water for the parched Union troops at Doctor's Creek. Gilbert ordered McCook not to advance any further and then rode to consult with Buell. Along the way, Gilbert ordered his cavalry to attack the Confederates in Dan McCook's front. Sheridan heard the gunfire and came to the front with another brigade. Although the cavalry failed to secure the heights in front of McCook, Sheridan's reinforcements drove off the Southerners. Gilbert returned and ordered Sheridan to return to McCook's original position. Sheridan's aggressiveness convinced the opposing Confederates under Maj. Gen. Leonidas Polk, that they should remain on the defensive. His troops repelled Confederate attacks later that day, but did not participate in the heaviest fighting of the day, which occurred on the Union left.
+
+On December 31, 1862, the first day of the Battle of Stones River, Sheridan anticipated a Confederate assault and positioned his division in preparation for it. His division held back the Confederate onslaught on his front until their ammunition ran out and they were forced to withdraw. This action was instrumental in giving the Union army time to rally at a strong defensive position. For his actions, he was promoted to major general on April 10, 1863 (with date of rank December 31, 1862). In six months, he had risen from captain to major general.
+The Army of the Cumberland recovered from the shock of Stones River and prepared for its summer offensive against Confederate General Braxton Bragg. Sheridan's division participated in the advance against Bragg in Rosecrans's brilliant Tullahoma Campaign, and was the lead division to enter the town of Tullahoma. On the second day of the Battle of Chickamauga, September 20, 1863, Rosecrans was shifting Sheridan's division behind the Union battle line when Bragg launched an attack into a gap in the Union line. Sheridan's division made a gallant stand on Lytle Hill against an attack by the Confederate corps of Lt. Gen. James Longstreet, but was swamped by retreating Union soldiers. The Confederates drove Sheridan's division from the field in confusion. He gathered as many men as he could and withdrew toward Chattanooga, rallying troops along the way. Learning of Maj. Gen. George H. Thomas's XIV Corps stand on Snodgrass Hill, Sheridan ordered his division back to the fighting, but they took a circuitous route and did not participate in the fighting as some histories claim. His return to the battlefield ensured that he did not suffer the fate of Rosecrans who was falsely accused of riding off to Chattanooga leaving the army to its fate, and was soon relieved of command.
+During the Battle of Chattanooga, at Missionary Ridge on November 25, 1863, Sheridan's division and others in George Thomas's army broke through the Confederate lines in a wild charge that exceeded the orders and expectations of Thomas and Ulysses S. Grant. Just before his men stepped off, Sheridan told them, &quot;Remember Chickamauga,&quot; and many shouted its name as they advanced as ordered to a line of rifle pits in their front. Faced with enemy fire from above, however, they continued up the ridge. Sheridan spotted a group of Confederate officers outlined against the crest of the ridge and shouted, &quot;Here's at you!&quot; An exploding shell sprayed him with dirt and he responded, &quot;That's damn ungenerous! I shall take those guns for that!&quot; The Union charge broke through the Confederate lines on the ridge and Bragg's army fell into retreat. Sheridan impulsively ordered his men to pursue Bragg to the Confederate supply depot at Chickamauga Station, but called them back when he realized that his was the only command so far forward. General Grant reported after the battle, &quot;To Sheridan's prompt movement, the Army of the Cumberland and the nation are indebted for the bulk of the capture of prisoners, artillery, and small arms that day. Except for his prompt pursuit, so much in this way would not have been accomplished.&quot;
+
+Gen. Ulysses S. Grant, newly promoted to be general-in-chief of all the Union armies, summoned Sheridan to the Eastern Theater to command the Cavalry Corps of the Army of the Potomac.  Unbeknownst to Sheridan, he was actually Grant's second choice, after Maj. Gen. William B. Franklin, but Grant agreed to a suggestion about Sheridan from Chief of Staff Henry W. Halleck. After the war, and in his memoirs, Grant claimed that Sheridan was the very man he wanted for the job. Sheridan arrived at the headquarters of the Army of the Potomac on April 5, 1864, less than a month before the start of Grant's massive Overland Campaign against Robert E. Lee.
+In the early battles of the campaign, Sheridan's cavalry was relegated by army commander Maj. Gen. George Meade to its traditional role, including screening, reconnaissance, and guarding trains and rear areas, much to Sheridan's frustration. In the Battle of the Wilderness (May 5–6, 1864), the dense forested terrain prevented any significant cavalry role. As the army swung around the Confederate right flank in the direction of Spotsylvania Court House, Sheridan's troopers failed to clear the road from the Wilderness, losing engagements along the Plank Road on May 5 and Todd's Tavern on May 6 through May 8, allowing the Confederates to seize the critical crossroads before the Union infantry could arrive.
+
+	Sheridan in the Overland Campaign
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+When Meade quarreled with Sheridan for not performing his duties of screening and reconnaissance as ordered, Sheridan told Meade that he could &quot;whip Stuart&quot; if Meade let him. Meade reported the conversation to Grant, who replied, &quot;Well, he generally knows what he is talking about. Let him start right out and do it.&quot; Meade deferred to Grant's judgment and issued orders to Sheridan to &quot;proceed against the enemy's cavalry&quot; and from May 9 through May 24, sent him on a raid toward Richmond, directly challenging the Confederate cavalry. The raid was less successful than hoped; although his raid managed to mortally wound Confederate cavalry commander Maj. Gen. J.E.B. Stuart at Yellow Tavern on May 11 and beat Maj. Gen. Fitzhugh Lee at Meadow Bridge on May 12, the raid never seriously threatened Richmond and it left Grant without cavalry intelligence for Spotsylvania and North Anna. Historian Gordon C. Rhea wrote, &quot;By taking his cavalry from Spotsylvania Court House, Sheridan severely handicapped Grant in his battles against Lee. The Union Army was deprived of his eyes and ears during a critical juncture in the campaign. And Sheridan's decision to advance boldly to the Richmond defenses smacked of unnecessary showboating that jeopardized his command.&quot;
+
+Rejoining the Army of the Potomac, Sheridan's cavalry fought inconclusively at Haw's Shop (May 28), a battle with heavy casualties that allowed the Confederate cavalry to obtain valuable intelligence about Union dispositions. They seized the critical crossroads that triggered the Battle of Cold Harbor (June 1 to 12) and withstood a number of assaults until reinforced. Grant then ordered Sheridan on a raid to the northwest to break the Virginia Central Railroad and to link up with the Shenandoah Valley army of Maj. Gen. David Hunter. He was intercepted by the Confederate cavalry under Maj. Gen. Wade Hampton at the Battle of Trevilian Station (June 11–12), where in the largest all-cavalry battle of the war, he achieved tactical success on the first day, but suffered heavy casualties during multiple assaults on the second. He withdrew without achieving his assigned objectives. On his return march, he once again encountered the Confederate cavalry at Samaria (St. Mary's) Church on June 24, where his men suffered significant casualties, but successfully protected the Union supply wagons they were escorting.
+History draws decidedly mixed opinions on the success of Sheridan in the Overland Campaign, in no small part because the very clear Union victory at Yellow Tavern, highlighted by the death of Jeb Stuart, tends to overshadow other actions and battles. In Sheridan's report of the Cavalry Corps' actions in the campaign, discussing the strategy of cavalry fighting cavalry, he wrote, &quot;The result was constant success and the almost total annihilation of the rebel cavalry. We marched when and where we pleased; we were always the attacking party, and always successful.&quot; A contrary view has been published by historian Eric J. Wittenberg, who notes that of four major strategic raids (Richmond, Trevilian, Wilson-Kautz, and First Deep Bottom) and thirteen major cavalry engagements of the Overland and Richmond–Petersburg campaigns, only Yellow Tavern can be considered a Union victory, with Haw's Shop, Trevilian Station, Meadow Bridge, Samaria Church, and Wilson-Kautz defeats in which some of Sheridan's forces barely avoided destruction.
+
+Throughout the war, the Confederacy sent armies out of Virginia through the Shenandoah Valley to invade Maryland and Pennsylvania and threaten Washington, D.C. Lt. Gen. Jubal Early, following the same pattern in the Valley Campaigns of 1864, and hoping to distract Grant from the Siege of Petersburg, attacked Union forces near Washington and raided several towns in Pennsylvania. Grant, reacting to the political commotion caused by the invasion, organized the Middle Military Division, whose field troops were known as the Army of the Shenandoah. He considered various candidates for command, including George Meade, William B. Franklin, and David Hunter, with the latter two intended for the military division while Sheridan would command the army. All of these choices were rejected by either Grant or the War Department and, over the objection of Secretary of War Edwin Stanton, who believed him to be too young for such a high post, Sheridan took command in both roles at Harpers Ferry on August 7, 1864. His mission was not only to defeat Early's army and to close off the Northern invasion route, but to deny the Shenandoah Valley as a productive agricultural region to the Confederacy. Grant told Sheridan, &quot;The people should be informed that so long as an army can subsist among them recurrences of these raids must be expected, and we are determined to stop them at all hazards. ... Give the enemy no rest ... Do all the damage to railroads and crops you can. Carry off stock of all descriptions, and negroes, so as to prevent further planting. If the war is to last another year, we want the Shenandoah Valley to remain a barren waste.&quot;
+
+Sheridan got off to a slow start, needing time to organize and to react to reinforcements reaching Early; Grant ordered him not to launch an offensive &quot;with the advantage against you.&quot; And yet Grant expressed frustration with Sheridan's lack of progress. The armies remained unengaged for over a month, causing political consternation in the North as the 1864 election drew near. The two generals conferred on September 16 at Charles Town and agreed that Sheridan would begin his attacks within four days.
+On September 19, armed with intelligence about the dispositions and strength of Early's forces around Winchester provided by unionist sympathizer and Quaker teacher Rebecca Wright, Sheridan beat Early's much smaller army at Third Winchester and followed up on September 22 with a victory at Fisher's Hill. As Early attempted to regroup, Sheridan began the punitive operations of his mission, sending his cavalry as far south as Waynesboro to seize or destroy livestock and provisions, and to burn barns, mills, factories, and railroads. Sheridan's men did their work relentlessly and thoroughly, rendering over 400 square miles uninhabitable. 
+The destruction presaged the scorched-earth tactics of Sherman's March to the Sea through Georgia, and were designed to deny the Confederacy an army a base from which to operate and bring the effects of war home to the population supporting it. Residents referred to this widespread destruction as &quot;The Burning,&quot; which remain controversial. Sheridan's troops told of the wanton attack in their letters home, calling themselves &quot;barn burners&quot; and &quot;destroyers of homes.&quot; One soldier wrote to his family that he had personally set 60 private homes on fire and believed that &quot;it was a hard looking sight to see the women and children turned out of doors at this season of the year&quot; (winter). A Sergeant William T. Patterson wrote that &quot;the whole country around is wrapped in flames, the heavens are aglow with the light thereof ... such mourning, such lamentations, such crying and pleading for mercy [by defenseless women] ... I never saw or want to see again.&quot; The Confederates were not idle during this period and Sheridan's men were plagued by guerrilla raids by partisan ranger Col. John S. Mosby.
+Although Sheridan assumed that Jubal Early was effectively out of action and he considered withdrawing his army to rejoin Grant at Petersburg, Early received reinforcements and, on October 19 at Cedar Creek, launched a well-executed surprise attack while Sheridan was absent from his army, ten miles away at Winchester. Hearing the distant sounds of artillery, he rode aggressively to his command. He reached the battlefield about 10:30 a.m. and began to rally his men. Fortunately for Sheridan, Early's men were too occupied to take notice; they were hungry and exhausted and fell out to pillage the Union camps. Sheridan's actions are generally credited with saving the day, although Maj. Gen. Horatio G. Wright, commanding Sheridan's VI Corps, already rallied his men and stopped their retreat. Early had been dealt his most significant defeat, rendering his army almost incapable of future offensive action. 
+Sheridan received a personal letter of thanks from Abraham Lincoln and was promoted to major general in the regular army as of November 8, 1864, making him the fourth ranking general in the Army, after Grant, Sherman, and Meade. Grant wrote to Secretary of War Edwin M. Stanton after he ordered a 100-gun salute to celebrate Sheridan's victory at Cedar Creek, &quot;Turning what bid fair to be a disaster into glorious victory stamps Sheridan, what I have always thought him, one of the ablest of generals.&quot; A famous poem, Sheridan's Ride, was written by Thomas Buchanan Read to commemorate the general's return to the battle. Sheridan reveled in the fame that Read's poem brought him, renaming his horse Rienzi to &quot;Winchester,&quot; based on the poem's refrain, &quot;Winchester, twenty miles away.&quot; The poem was widely used in Republican campaign efforts and some have credited Abraham Lincoln's margin of victory to it.&gt; Lincoln was pleased at Sheridan's performance as a commander, writing Sheridan and playfully confessing his reassessment of the relatively short officer, &quot;When this peculiar war began, I thought a cavalryman should be six feet four inches, but I have changed my mind. Five foot four will do in a pinch.&quot;
+Sheridan spent the next several months occupying Winchester, and was the national military governor of the city after the previous six-month long occupation of his predecessor, national general Robert H. Milroy.  He was occupied with light skirmishing and fighting guerrillas. Although Grant continued his exhortations for Sheridan to move south and break the Virginia Central Railroad supplying Petersburg, Sheridan resisted. Wright's VI Corps returned to join Grant in November. Sheridan's remaining men, primarily cavalry and artillery, finally moved out of their winter quarters on February 27, 1865, and headed east.
+Writing about Sheridan's occupation of Winchester, a resident wrote:
+
+....my pen fails me when I attempt to recall and picture the many disagreeable, contemptible acts committed under General Sheridan's orders, under the name of war measures. I knew him personally from an observation of nearly seven months' duration, and although history records him as a great military man, in some respects he was a low vulgarian. But the proof of this assertion is not for these pages. It makes my cheeks fairly burn now when I remember going there one morning on business. I wore my hair curled and caught up in a bunch with a comb at the back of my head. Coming up to me in a most famil-iar way he took hold of one of my curls; toying with it, he said, &quot;If you give me this I will send you a bridal present when you marry.&quot; Having captured several of Mr. Macon's [Her betrothed] letters, he was well posted about matters. He devastated the whole country, far and wide, and in his report gloried over the fact, for he wrote, &quot;I have destroyed a thousand barns filled with wheat, hay, and farming utensils. Have driven in front of the army four thousand cattle and have killed not less than three thousand sheep. So entire has been the destruction that a crow flying across the Valley must carry his rations.&quot; All that was left was destroyed by fire and the poor, suffering people were left in despair.
+The orders from Gen. Grant were largely discretionary, interpreted as permitting Sheridan to either destroy the Virginia Central Railroad and the James River Canal, capture Lynchburg if practical, and then either join William T. Sherman in North Carolina or return to Winchester.
+
+Sheridan interpreted Grant's orders liberally and instead of heading to North Carolina, in March 1865, he moved to rejoin the Army of the Potomac at Petersburg. He wrote in his memoirs, &quot;Feeling that the war was nearing its end, I desired my cavalry to be in at the death.&quot; His finest service of the Civil War was demonstrated during his relentless pursuit of Robert E. Lee's Army, effectively managing the most crucial aspects of the Appomattox Campaign for Grant.
+On the way to Petersburg, at the Battle of Waynesboro, on March 2, 1865, he trapped the remainder of Early's army. and 1,500 soldiers surrendered. On April 1, he cut off General Lee's lines of support at Five Forks, forcing Lee to evacuate Petersburg. During the battle, he ruined the military career of Maj. Gen. Gouverneur K. Warren by removing him from command of the V Corps under circumstances that a court of inquiry later determined were unjustified. President Rutherford B. Hayes ordered a court of inquiry that convened in 1879 and, after hearing testimony from dozens of witnesses over 100 days, found that Sheridan's relief of Warren had been unjustified. Unfortunately for Warren, these results were not published until after his death.
+Sheridan's aggressive and well-executed performance at the Battle of Sayler's Creek on April 6 effectively sealed the fate of Lee's army, capturing over 20% of his remaining men. President Lincoln sent Grant a telegram on April 7: &quot;Gen. Sheridan says 'If the thing is pressed I think that Lee will surrender.' Let the thing be pressed.&quot; At Appomattox Court House, on April 9, 1865, Sheridan blocked Lee's escape, forcing the surrender of the Army of Northern Virginia later that day. Grant summed up Little Phil's performance in these final days, saying, &quot;I believe General Sheridan has no superior as a general, either living or dead, and perhaps not an equal.&quot;
+
+After Gen. Lee's surrender, and that of Gen. Joseph E. Johnston in North Carolina, the only significant Confederate field force remaining was in Texas under Gen. Edmund Kirby Smith. Sheridan was supposed to lead troops in the Grand Review of the Armies in Washington, D.C., but Grant appointed him commander of the Military District of the Southwest on May 17, 1865 six days before the parade, with orders to defeat Smith without delay and restore Texas and Louisiana to Union control. However, Smith surrendered before Sheridan reached New Orleans.
+Grant was also concerned about the situation in neighboring Mexico, where 40,000 French soldiers propped up the puppet regime of Austrian Archduke Maximilian. He gave Sheridan permission to gather a large Texas occupation force. Sheridan assembled 50,000 men in three corps, quickly occupied Texas coastal cities, spread inland, and began to patrol the Mexico–United States border. The Army's presence, U.S. political pressure, and the growing resistance of Benito Juárez induced the French to abandon their claims against Mexico. Napoleon III announced a staged withdrawal of French troops to be completed in November 1867. In light of growing opposition at home and concern with the rise of German military prowess, Napoleon III stepped up the French withdrawal, which was completed by March 12, 1867. By June 19 of that year, Mexico's republican army had captured, tried, and executed Maximilian. Sheridan later admitted in his memoirs that he had supplied arms and ammunition to Juárez's forces: &quot;... which we left at convenient places on our side of the river to fall into their hands&quot;.
+On July 30, 1866, while Sheridan was in Texas, a white mob broke up the state constitutional convention in New Orleans, killing 34 blacks. Shortly after Sheridan returned, he wired Grant, &quot;The more information I obtain of the affair of the 30th in this city the more revolting it becomes. It was no riot; it was an absolute massacre.&quot; In March 1867, with Reconstruction barely started, Sheridan was appointed military governor of the Fifth Military District (Texas and Louisiana). He severely limited voter registration for former Confederates and ruled that only registered voters, including black men, were eligible to serve on juries. Furthermore, an inquiry into the deadly New Orleans riot of 1866 implicated numerous local officials; Sheridan dismissed the mayor of New Orleans, the Louisiana attorney general, and a district judge. He later removed Louisiana Governor James M. Wells, accusing him of being &quot;a political trickster and a dishonest man&quot;. He also dismissed Texas Governor James W. Throckmorton, a former Confederate, for being an &quot;impediment to the reconstruction of the State&quot;, replacing him with the Republican who had lost to him in the previous election Elisha M. Pease. Sheridan had been feuding with President Andrew Johnson for months over interpretations of the Military Reconstruction Acts and voting rights issues, and within a month of the second firing, the president removed Sheridan, stating to an outraged Gen. Grant that, &quot;His rule has, in fact, been one of absolute tyranny, without references to the principles of our government or the nature of our free institutions.&quot;
+Sheridan was not popular in Texas, and he did not have much appreciation for Texas, either. In 1866, he quipped that, &quot;If I owned Texas and Hell, I would rent Texas and live in Hell.&quot;
+
+During the Grant administration, while Sheridan was assigned to duty in the West, he was sent to Louisiana on two additional occasions to deal with problems that lingered in Reconstruction. In January 1875, federal troops intervened in the Louisiana Legislature following attempts by the Democrats to seize control of disputed seats. Sheridan supported Republican Governor William P. Kellogg, who won the 1872 gubernatorial election, and declared that the Democratic opponents of the Republican regime who used violence to overcome legitimate electoral results were &quot;banditti&quot; who should be subjected to military tribunals and loss of their habeas corpus rights. The Grant administration backed down after an enormous public outcry. A headline in the New York World shrieked, &quot;Tyranny! A Sovereign State Murdered!&quot; In 1876, Sheridan was sent to New Orleans to command troops keeping the peace in the aftermath of the disputed 1876 presidential election.
+
+In September 1866, Sheridan was assigned to Fort Martin Scott near Fredericksburg, Texas, to administer the formerly Confederate area. While there, he spent three months subduing marauding Indians in the Texas Hill Country.
+At this time, President Johnson was dissatisfied with the way Republican Army Generals were administering Reconstruction in the post-war Southern states and sought to replace them with Democratic ones more in tune with the (formerly Confederate) White populations committed to instituting Jim Crow laws.
+Maj. Gen. Winfield Scott Hancock had been assigned to the Department of the Missouri, an administrative area of over 1,000,000 square miles, encompassing land between the Mississippi River and the Rocky Mountains, and from Kansas north, but had mishandled his campaign mistreating the Plains Indians, primarily Sioux and Cheyenne, resulting in retaliatorily raids that attacked mail coaches, burned stations, and killed employees. The Indians also killed and kidnapped a considerable number of settlers on the frontier. In response to state and territorial governors wanting both more competent Army administration and the Indian uprisings suppressed, coupled with pressures from President Johnson to replace Southern Republican administrators, General Grant swapped Hancock and Sheridan, sending the Democratic Hancock to the Texas post-Confederate area, where he immediately ingratiated himself with the local white population by instituting repressive policies favored by President Johnson's administration and other Democratic politicians throughout the Southern territory.
+At the same time, Sheridan took up his responsibilities in the Department of the Missouri. According to the Kansas Historical Society:
+&quot;President Ulysses S. Grant wanted Sheridan to pacify the Plains Indians, primarily [in response to] the mishandling of the white/Indian conflict by such notables as Major John Chivington and General Winfield Scott Hancock. ... Sheridan's ultimate goal was to make the Indians give up their traditional way of life and settle on reservations.  His tactic, though bordering on the barbaric, worked.&quot;
+While Sheridan moved into the Plains area, his troops, supplemented with state militias, were spread too thin to have any real effect on the Indian raids so he conceived a strategy of forced deprivation, similar to the one he used in the Shenandoah Valley. In the Winter Campaign of 1868–69 (of which the Battle of Washita River was part) he attacked the Cheyenne, Kiowa, and Comanche tribes in their winter quarters, taking their supplies and livestock, driving the Indians back on to their reservations, and killing those who resisted.  When Sherman was promoted to General of the Army following Grant's election as President of the United States, Sheridan was appointed to senior command of the Military Division of the Missouri, with all the Great Plains under his command. Professional hunters, trespassing on Indian reservations, killed over 4 million bison by 1874. As historian Dan Flores has shown, any quotations attributed to Sheridan that celebrate buffalo hunting or that he ever appeared before the Texas legislature about this matter, are almost certainly apocryphal. As Flores notes, &quot;there is no evidence the nineteenth-century Texas legislature ever considered a bill to outlaw or regulate the hide hunt.&quot; These erroneous charges against Sheridan first surfaced in the 1907 memoir of buffalo hunter John Cook.
+Eventually the Indians returned to their designated reservations. Sheridan's department conducted the Red River War, the Ute War, and the Great Sioux War of 1876–77, which resulted in the death of Lt. Col. George Armstrong Custer. The Indian raids subsided during the 1870s and were almost over by the early 1880s, as Sheridan became the commanding general of the entire U.S. Army.
+In a story that is almost certainly fictitious, Comanche Chief Tosawi was said to have told Sheridan in 1869, &quot;Tosawi, good Indian,&quot; to which Sheridan is said to have replied, &quot;The only good Indians I ever saw were dead.&quot; In the first printed reference to this exchange, more than 100 years later in 1970, in Bury My Heart at Wounded Knee, author Dee Brown attributes the quote to Sheridan, claiming that &quot;Lieutenant Charles Nordstrom, who was present, remembered the words and passed them on, until in time they were honed into an American aphorism: The only good Indian is a dead Indian. Sheridan denied he had ever made the statement. Biographer Roy Morris Jr. states that, nevertheless, popular history credits Sheridan with saying &quot;The only good Indian is a dead Indian.&quot; This variation &quot;has been used by friends and enemies ever since to characterize and castigate his Indian-fighting career.&quot;
+According to the Kansas Historical Society:
+&quot;Sheridan has been accused of being unnecessarily cruel; bent on exterminating the Indian. Although he did regard the Indians as &quot;savages&quot; whose one profession was &quot;that of arms,&quot; he felt that it would take more than just confining them to reservations to settle the west. It would also be necessary to &quot;exercise some strong authority over him.&quot; Although not as sympathetic to the Indians' plight as some other army officers, he did say that, &quot;We took away their country and their means of support…and against this they made war. Could anyone expect less?&quot; He did agree, however, with most soldiers when he blamed the government for the failure of the reservation system. He said it was up to Congress, &quot;to furnish the poor people from whom this country has been taken with sufficient food to enable them to live without suffering the pangs of hunger.&quot; This is hardly the attitude one would expect from someone who was purported to say, &quot;The only good Indian is a dead Indian,&quot; ... He was above all else, a soldier and in response to some of his critics he stated, &quot;My duties are to protect these people. I have nothing to do with Indians but in this connection…The wife of a man at the center of wealth and civilization and refinement is not more dear to him than is the wife of the pioneer of the frontier. I have no hesitation in making my choice. I am going to stand by the people over whom I am placed and give them what protection I can.&quot;
+
+Sheridan was promoted to lieutenant general on March 4, 1869. In 1870, President Grant, at Sheridan's request, sent him to observe and report on the Franco-Prussian War. As a guest of King Wilhelm I of Prussia, he was present when Emperor Napoléon III surrendered to the Germans, which was gratifying to Sheridan following his experiences with the French in Mexico. He later toured most of Europe and returned to the U.S. to report to Grant that although the Prussians were &quot;very good brave fellows [who] had gone into each battle with the determination to win, ... there is nothing to be learned here professionally.&quot; He criticized their handling of cavalry and likened their practices to the manner in which Meade had attempted to supervise him. However, he referred to theirs as a &quot;perfect military system&quot; and had a high opinion of the officer corps. His words on the French were much more harsh; he criticized the French army for not taking numerous opportunities to halt the German advance, for advancing slowly and clumsily themselves, for not taking any of the numerous good opportunities to cut the enemy's unguarded lines of communication, and for being routed frequently. He remarked: &quot;I am disgusted; all my boyhood's fancies of the soldiers of the great Napoleon have been dissipated, or else the soldiers of the &quot;Little Corporal&quot; have lost their elan in the pampered parade soldiers of the 'Man of Destiny'.&quot;
+In 1871, Sheridan was present in Chicago during the Great Chicago Fire and coordinated military relief efforts. The mayor, Roswell B. Mason, to calm the panic, placed the city under martial law, and issued a proclamation putting Sheridan in charge. As there were no widespread disturbances, martial law was lifted within a few days. Although Sheridan's personal residence was spared, all of his professional and personal papers were destroyed. When Chicago's Washington Park Race Track organized the American Derby in 1883 he served as its first president.
+On November 1, 1883, Sheridan succeeded General William T. Sherman as Commanding General of the U.S. Army, and held that position until his death. He was promoted on June 1, 1888, shortly before his death, to the rank of General in the Regular Army (the rank was titled &quot;General of the Army of the United States&quot;, by Act of Congress June 1, 1888, the same rank held earlier by Grant and Sherman, which is equivalent to a five-star general, O-11, in the modern U.S. Army).
+Sheridan served as commander in chief of the Military Order of the Loyal Legion of the United States (MOLLUS), a military society of officers who served in the Union armed forces and their descendants, from 1886 until his death in 1888.  He was also the first president of the Society of the Army of the Potomac when it was founded in 1869 and as the ninth president of the National Rifle Association of America in 1885.
+
+The protection of the Yellowstone area was Sheridan's personal crusade. He authorized Lieutenant Gustavus Doane to escort the Washburn Expedition in 1870 and for Major John W. Barlow to escort the Hayden Expedition in 1871. Barlow named Mount Sheridan, a peak overlooking Heart Lake in Yellowstone, for the general in 1871. As early as 1875, Sheridan promoted military control of the area to prevent the destruction of natural formations and wildlife.
+In 1882, the Department of the Interior granted rights to the Yellowstone Park Improvement Company to develop 4,000 acres (1,619 ha) in the park. Their plan was to build a railroad into the park and sell the land to developers. Sheridan personally organized opposition to the plan and lobbied Congress for protection of the park; including expansion, military control, reducing the development to 10 acres (4 ha), and prohibiting leases near park attractions. In addition, he arranged an expedition to the park for President Chester A. Arthur and other influential men. His lobbying soon paid off. A rider was added to the Sundry Civil Bill of 1883, giving Sheridan and his supporters almost everything for which they had asked. In 1886, after a string of ineffectual and sometimes criminal superintendents, Sheridan ordered the 1st U.S. Cavalry into the park. The military operated the park until the National Park Service took it over in 1916.
+Sheridan is mentioned favorably in The National Parks: America's Best Idea, Episode I, for his work saving Yellowstone National Park:
+
+Grinnell's fight against the railroad interests was soon joined by an unlikely ally—General Philip Sheridan, a cavalry hero of the Civil War and celebrated Indian fighter, who was now commander of the U.S. Army for much of the West. Sheridan even suggested that Yellowstone should be expanded to provide greater protection for the elk and buffalo. The idea was immediately opposed by Western politicians who believed that Yellowstone was already too big.
+In Washington, Grinnell, Sheridan and Missouri Senator George Vest took on the railroad lobby directly, calling for an investigation into the park contracts, proposing the expansion of Yellowstone, and trying to write park regulations concerning hunting into law.  While the bill to expand Yellowstone failed, Congress did appropriate $40,000 for its maintenance; however, funds to maintain the park were stripped away in August 1886. It seemed Yellowstone would have to fend for itself.
+
+Coming to the rescue, Sheridan dispatched Troop M of the First United States Cavalry to take control of Yellowstone.
+
+On June 3, 1875, Sheridan married Irene Rucker, a daughter of Army Quartermaster General Daniel H. Rucker. She was 22, and he was 44. They had four children: Mary, born in 1876; twin daughters, Irene and Louise, in 1877; and Philip Jr., in 1880. After the wedding, Sheridan and his wife moved to Washington, D.C. They lived in a house given to them by Chicago citizens in appreciation for Sheridan's protection of the city after the Great Chicago Fire in 1871. Philip Sheridan Jr. was an army officer who attained the rank of major and was the husband of Isabel McGunnegle. Isabel McGunnegle was the daughter of army officer George K. McGunnegle.
+
+In 1888 Sheridan suffered a series of massive heart attacks two months after sending his memoirs to the publisher. Although thin in his youth, by 57 years of age he had reached a weight of over 200 pounds. After his first heart attack, the U.S. Congress quickly passed legislation to promote him to general of the army on June 1, 1888, and he received the news from a congressional delegation with joy, despite his pain.
+His family moved him from the heat of Washington to his summer cottage in the Nonquitt enclave of Dartmouth, Massachusetts, where he died of heart failure on August 5, 1888.
+His body was returned to Washington and he was buried on a hillside facing the capital city near Arlington House in Arlington National Cemetery. The sculpture on the marker was executed by English sculptor Samuel James Kitson. The burial helped elevate Arlington to national prominence. His wife Irene never remarried, saying, &quot;I would rather be the widow of Phil Sheridan than the wife of any man living.&quot;
+
+Sheridan is the only person to be featured on a U.S. ten-dollar bill who was strictly associated with the military and not politics. He is featured on $5 and $10 bills.
+Sheridan appeared on $10 U.S. Treasury notes issued in 1890 and 1891. His bust then reappeared on the $5 silver certificate in 1896. These rare notes are in great demand by collectors today.
+Fort Sheridan in Illinois was named to honor General Sheridan's many services to Chicago An equestrian statue of Sheridan by Gutzon Borglum (sculptor of the figures on Mount Rushmore) at Belmont Avenue and Sheridan Road in Chicago depicts the general on his horse, Rienzi. Sheridan Road begins in Chicago, continues mostly along the shoreline of Lake Michigan for about 60 miles (96 km) through the North Shore suburbs, and leads to the Town of Fort Sheridan and ultimately Racine, Wisconsin. The landmark former U.S. Army base named for the general is now a reserve post and upscale residential community.
+The M551 Sheridan tank is named after Sheridan.
+Mount Sheridan in Yellowstone National Park was named for Sheridan by Captain John W. Barlow in 1871. Mount Sheridan in Colorado is also named for him.
+The Sheridan Prize is a yacht-racing perpetual trophy awarded to the winner of an annual race on Geneva Lake.  It was begun on the occasion of the general's visit to Lake Geneva (then, Geneva) in 1874.
+In 1937, the U.S. Post Office issued a series of commemorative stamp issues honoring various Army and Navy heroes.  Among them was an issue commemorating Generals Ulysses S. Grant, William T. Sherman and Philip H. Sheridan.
+
+Sheridan County, North Dakota; Sheridan County, Nebraska; Sheridan County, Montana; Sheridan County, Wyoming; and Sheridan County, Kansas, are named for him, as are the communities of Sheridan, California; Sheridan, Colorado; Sheridan, Montana (in Madison County); Sheridan, Wyoming; Sheridan, Arkansas; Sheridan, Oregon; Sheridan, Indiana; and Sheridan, Illinois (LaSalle County).
+Sheridan Square in the West Village of New York City is named for the general and his statue is displayed nearby in Christopher Street Park. Sheridan Circle, Sheridan Street, and the neighborhood of Sheridan-Kalorama in Washington, D.C., are also named after him.  Sheridan Avenue in the Bronx is one block east of Sherman Avenue. Sheridan Boulevard is a major north–south thoroughfare in Denver, Colorado.
+The only equestrian Civil War statue in Ohio honors Sheridan. It is in the center traffic circle on US Route 22 in Somerset, Ohio, not far from the house where Sheridan grew up.
+Sheridan High School is located 5 miles (8 km) north of General Sheridan's home town of Somerset. The athletic team is nicknamed &quot;The Generals&quot;.
+Sheridan Glacier, located 15 miles (25 km) outside of Cordova, Alaska was named in his honor.
+
+In Albany, New York, there is an equestrian statue of Sheridan in front of the New York State Capitol, near Sheridan Avenue.
+
+In World War II, the United States liberty ship, SS Philip H. Sheridan, was named in his honor.
+Sheridan Road in Lawton, Oklahoma, leads to Fort Sill, where Sheridan supposedly uttered the words &quot;The only good Indians I ever saw were dead.&quot;
+Sheridan Drive in Arlington National Cemetery partially encircles the area that contains the general's gravesite. The Sheridan Gate, constructed in 1879 and dismantled and placed in storage in 1971, was once the Cemetery's main entrance.
+A statue of Sheridan by Allen George Newman is sited in Scranton, Pennsylvania.
+New York State Route 324 (&quot;Sheridan Drive&quot;) in the northern suburbs of Buffalo, New York, is named for Sheridan Road in Chicago, and thus indirectly after Philip Sheridan. An equestrian statue of the general was planned to be built there in 1925
+John Philip Sousa wrote a descriptive piece for band memorializing Sheridan. Describing &quot;Sheridan's Ride&quot;, published in 1891, as a &quot;Scenes Historical&quot;, Sousa musically characterized Sheridan's famous ride back to his army in the Battle of Cedar Creek. The composition has six sections: Waiting for the Bugle, The Attack, The Death of Thoburn, The Coming of Sheridan, and The Apotheosis.
+Sheridan Hall on the Fort Hays State University campus in Hays, Kansas, is named in honor of Sheridan. The building commemorates Sheridan's time stationed at the Fort Hays military post.
+The original site of the Phil Sheridan Elementary School in Chicago, which opened in 1888, was in the South Chicago neighborhood. In 1998, the school was renamed the Arnold Mireles Academy in memory of a murdered South Side community activist. The present-day Sheridan Elementary School in Chicago is a magnet school located at 533 W. 27th Street, in the city's Bridgeport neighborhood.
+In Broward County, in southern Florida, there is another road named after Sheridan, Florida State Road 822, also known as &quot;Sheridan Street&quot;, which runs on an east–west configuration, between State Road A1A at Hollywood Beach and U.S. Route 27, which borders the Everglades.
+
+In the novel series The Brotherhood of War, the Parker family males are named after Philip Sheridan; the two most prominent are Philip Sheridan Parker III and Philip Sheridan Parker IV. The latter's great-great-grandfather supposedly fought with General Sheridan in the Indian Wars as a Master Sergeant in the 10th U.S. Cavalry Regiment, known as the Buffalo Soldiers.
+In Sherman Alexie's novel Reservation Blues, Sheridan is portrayed as a head hunter for a record label responsible for the downfall of the novel's protagonist's band Coyote Springs. The link between the real Sheridan and the character in the book is made explicit in a brutal dream experienced by one of the characters.
+Sheridan is featured, and interacts with the characters, in Michael Crichton's novel Dragon Teeth (2017).
+
+Sheridan has been portrayed in films and television over the years:
+
+Abraham Lincoln (1930), portrayed by Frank Campeau.
+In Old Chicago (1938), portrayed by Sidney Blackmer.
+Santa Fe Trail (1940), portrayed by David Bruce.
+They Died with Their Boots On (1941), portrayed by John Litel. The movie inaccurately portrays Sheridan as a colonel and the commandant of the U.S. Military Academy before the start of the Civil War.
+Rio Grande (1950), portrayed by J. Carrol Naish.
+Tales of Wells Fargo (1957) in the episode &quot;The General&quot; Paul Fix appears as an irascible General Philip Sheridan. Amazingly he appears much like the real General Sheridan right down to the handlebar mustache. The usually squimish Whit Bissell also appears in this episode and plays a hero, shooting down definitely 5(maybe more) bad guys, more than Sheridan or Hardy put together, and lives through to the end of the show!
+The Rifleman (1958) features Lawrence Dobkin as Sheridan in an episode &quot;The Sheridan Story&quot;, wherein he befriends a wounded Confederate veteran who was severely wounded in the war (Royal Dano), who is staying temporarily on Lucas McCain's ranch n the New Mexico Territory. It is revealed that McCain, played by Chuck Connors, served under Sheridan during the war.
+The Rebel (1960) features Andrew J. Fenady in the role of Sheridan in the episode &quot;Johnny Yuma at Appomattox&quot;.
+Death Valley Days (1961) features H. M. Wynant as Sheridan in the episode, &quot;The Red Petticoat&quot;. In the story line, Sheridan's friendship with Indian scout Kahlu (Allen Jaffe) (1928–1989) is questioned after a number of ambushes result in dead troopers. Sheridan sticks to his instincts and defends his ally against the enraged residents of the fort. Stanley Andrews was the host.
+Branded (TV series) (1966) featured John Pickard (American actor) as Sheridan in six episodes, including a three-part episode in which Jason McCord (Chuck Connors) assists President Grant in heading off a heedless attack on Indians by General Custer.
+How the West Was Won (1978), Season 2, Episode 2 and (1979), Season 3, Episode 6, portrayed by Ramon Bieri.
+North and South, Book II (1986), Episode 6, portrayed by Clu Gulager.
+J. Michael Straczynski has stated that the character of Captain John Sheridan in the Babylon 5 television series is intended to be a direct descendant of General Sheridan.
+Sheridan is described in the PBS documentary The West (1996) as &quot;a ruthless warrior&quot; who &quot;played a decisive role in the army's long campaign against the native peoples of the plains&quot;. And &quot;at Petersburg he won an important victory that halted Robert E. Lee's retreat from Richmond and helped bring the war to an end.
+
+List of American Civil War generals (Union)
+
+Sources
+
+Works by Philip Sheridan at Project Gutenberg
+Works by or about Philip Sheridan at Internet Archive
+PBS on Sheridan
+PBS National parks on Sheridan, including rare images
+Sheridan's Ride poem
+Pictures of US Treasury Notes featuring Philip Sheridan, provided by the Federal Reserve Bank of San Francisco.
+ Texts on Wikisource:
+Herbermann, Charles, ed. (1913). &quot;Philip Henry Sheridan&quot;. Catholic Encyclopedia. New York: Robert Appleton Company.
+&quot;Sheridan, Philip Henry&quot;. The Nuttall Encyclopædia. 1907.
+&quot;Sheridan, Philip Henry&quot;. Appletons' Cyclopædia of American Biography. 1900.
+Commentary on Sheridan's role at Chickamauga</dcterms:abstract>
+        <dc:date>2024-07-03T17:09:13Z</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=Philip_Sheridan&amp;oldid=1232421371</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-23 13:06:50</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 1232421371</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_440">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/Philip_Sheridan</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-23 13:06:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://archive.org/details/GR_4330">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago, Illinois</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheridan</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Expedition Through the Big Horn Mountains, Yellowstone Park, etc.</dc:title>
+        <dc:date>September 20, 1881</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://archive.org/details/GR_4330</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>10</bib:pages>
+    </bib:Report>
+    <bib:Article rdf:about="https://weblink.grandronde.org/WebLink/DocView.aspx?id=25849&amp;page=1&amp;dbid=0&amp;repo=Grand-Ronde&amp;searchid=9f1e68f7-b601-4476-b896-70e0e5339c68&amp;cr=1">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Smoke Signals</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karten</foaf:surname>
+                        <foaf:givenName>Ron</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Mystery of Harriet Lindasy</dc:title>
+        <dcterms:abstract>The story of a Civil War general, an Indian girl and the Reservation at Grand Ronde</dcterms:abstract>
+        <dc:date>November 15, 2004</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://weblink.grandronde.org/WebLink/DocView.aspx?id=25849&amp;page=1&amp;dbid=0&amp;repo=Grand-Ronde&amp;searchid=9f1e68f7-b601-4476-b896-70e0e5339c68&amp;cr=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>9-12</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_443">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>The New York Times</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>A Sheridan Story</dc:title>
+        <dc:date>December 17, 1888</dc:date>
+        <bib:pages>4</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.nytimes.com/1861/06/08/archives/the-great-insurrection-latest-news-from-the-seat-of-army-operations.html">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Part>
+                <dc:title>Archives</dc:title>
+                <dcterms:isPartOf rdf:resource="urn:issn:0362-4331"/>
+            </bib:Part>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_445"/>
+        <dc:title>The Great Insurrection; Special Dispatch from Washington</dc:title>
+        <dc:date>1861-06-08</dc:date>
+        <z:language>en-US</z:language>
+        <z:libraryCatalog>NYTimes.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/1861/06/08/archives/the-great-insurrection-latest-news-from-the-seat-of-army-operations.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-23 14:09:01</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Newspaper rdf:about="urn:issn:0362-4331">
+        <dc:title>The New York Times</dc:title>
+        <dc:identifier>ISSN 0362-4331</dc:identifier>
+    </bib:Newspaper>
+    <z:Attachment rdf:about="#item_445">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nytimes.com/1861/06/08/archives/the-great-insurrection-latest-news-from-the-seat-of-army-operations.html?searchResultPosition=57</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-23 14:09:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://newscomwc.newspapers.com/newspage/1082449490">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>The Oregonian</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Portland, Oregon</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Sheridan</dc:title>
+        <dc:date>August 6, 1888</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://newscomwc.newspapers.com/newspage/1082449490</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>4</bib:pages>
+    </bib:Article>
+    <bib:Letter rdf:about="https://www.columbiagorge.org/wp-content/uploads/2013/06/Cascade_Massacre_Letter_of_l._W._Coe.pdf">
+        <z:itemType>letter</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coe</foaf:surname>
+                        <foaf:givenName>L. W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>April 6, 1856</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.columbiagorge.org/wp-content/uploads/2013/06/Cascade_Massacre_Letter_of_l._W._Coe.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:displayTitle>[Letter]</z:displayTitle>
+    </bib:Letter>
+    <bib:Book rdf:about="http://archive.org/details/lifeofgenphsheri00lark">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>T. R. Dawley</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larke</foaf:surname>
+                        <foaf:givenName>J. K. (Julian K. )</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The Library of Congress</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sheridan, Philip Henry, 1831-1888</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The life of Gen. P. H. Sheridan, the hero of the Shenandoah</dc:title>
+        <dcterms:abstract>4, [17]-108 p. 19 cm</dcterms:abstract>
+        <dc:date>1864</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>Internet Archive</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>9639456</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archive.org/details/lifeofgenphsheri00lark</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-23 20:48:37</dcterms:dateSubmitted>
+        <z:numPages>116</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_450">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>The Somerset Press</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Somerset, Ohio</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dcterms:abstract>General Sheridan has had a cook stove named after him.</dcterms:abstract>
+        <dc:date>March 27, 1874</dc:date>
+        <bib:pages>2</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://newscomwc.newspapers.com/article/the-somerset-press-sheridan-proposal-on/152006608/">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>The Somerset Press</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Somerset, Ohio</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheridan</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>General Sheridan Proposes a Remedy</dc:title>
+        <dc:date>Jan 8 1875</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://newscomwc.newspapers.com/article/the-somerset-press-sheridan-proposal-on/152006608/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_454">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>The Somerset Press</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Somerset, Ohio</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Sheridan in New Orleans</dc:title>
+        <dc:date>January 29, 1875</dc:date>
+        <bib:pages>2</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="https://archive.org/details/generalphilsheri00grei">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago, Illinois</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>J. S. Hyland and Company</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greiner</foaf:surname>
+                        <foaf:givenName>Henry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>General Phil Sheridan As I Knew Him, Playmate–Comrade–Friend</dc:title>
+        <dc:date>1908</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://archive.org/details/generalphilsheri00grei</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>425</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-0-306-82027-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Da Capo Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wheelan</foaf:surname>
+                        <foaf:givenName>Joseph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Terrible Swift Sword: The Life of General Philip H. Sheridan</dc:title>
+        <dc:date>2012</dc:date>
+        <dc:identifier>ISBN 978-0-306-82027-4</dc:identifier>
+        <z:numPages>387</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-0-06-295064-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>HarperCollins Publishers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cwiklik</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sheridan's Secret Mission: How the South Won the War After the Civil War</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>ISBN 978-0-06-295064-2</dc:identifier>
+        <z:numPages>226</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:1-929882-37-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Biographical Publishing Company</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Drake</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Little Phil: The Story of General Philip Henry Sheridan</dc:title>
+        <dc:date>2005</dc:date>
+        <dc:identifier>ISBN 1-929882-37-8</dc:identifier>
+        <z:numPages>658</z:numPages>
+    </bib:Book>
+    <z:Collection rdf:about="#collection_25">
+        <dc:title>Reference Only</dc:title>
+        <dcterms:hasPart rdf:resource="https://weblink.grandronde.org/WebLink/DocView.aspx?id=25849&amp;page=1&amp;dbid=0&amp;repo=Grand-Ronde&amp;searchid=9f1e68f7-b601-4476-b896-70e0e5339c68&amp;cr=1"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-306-82027-4"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-06-295064-2"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:1-929882-37-8"/>
+    </z:Collection>
+</rdf:RDF>
