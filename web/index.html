@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with General Sheridan</title>
+    <link rel="stylesheet" href="styles.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Sedan+SC&family=Lora&display=swap" rel="stylesheet">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+</head>
+<body>
+    <div class="container">
+        <div class="agent-image">
+			<h1>General Sheridan</h1>
+            <img src="agent.webp" alt="Agent Image">
+        </div>
+        <div class="chat-container">
+            <div class="chat-history" id="chat-history">
+				
+			</div>
+            <div class="chat-input">
+                <input type="text" id="chat-input" placeholder="Type your message..." onkeypress="handleKeyPress(event)">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+			<p>This is an AI representation of General Philip Sheridan produced by the Somerset Builder's Club. It may produce information which is false, misleading, offensive, or ahistorical. Verify any important claims. <a href="sources.html">View our sources here.</a> Built with Llama.</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
