@@ -1,6 +1,31 @@
-Hello!
+Gagan Karnati - Taking up the LLM task - 
+# VOS-MORPC-AI-Internship
+-> Village Of Somerset / Mid-Ohio Regional Planning Commission
+Historical General Sheridan LLM for internship LLaMA With LangChain Integration
 
-You're probably the next person to take on the General Sheridan project. And I should probably document it well enough that you can at least get it running.
+The General Sheridan Project is a complex AI and historical simulation tool designed to create interactive experiences with historical figures like General Philip Sheridan. The project focuses on running and fine-tuning large language models (LLMs) like LLaMA to generate text-based interactions that reflect the personality and historical knowledge of the character. 
+
+historical simulation tool designed around AI-powered interaction, utilizing cutting-edge language models (LLaMA 3) fine-tuned to simulate complex historical characters. The project blends NLP, web development, ethical considerations, and historical research, with future aspirations of expanding to other communities and improving the technical foundation. The main challenges revolve around fine-tuning the models for a nuanced and accurate portrayal of historical figures and handling the computational demands of running large language models.
+
+- Will be using M3 Max Macbook Pro to run this project. Utilizing M3 Max resources - Latest and Highest end Laptop from Apple...
+- M3 Max GPU comparable to a low end latest RTX 4060 Nvidia GPU.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goal of readme - Document it well enough that you can at least get it running.
 
 ### Hardware
 
