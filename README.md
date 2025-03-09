@@ -49,11 +49,11 @@ After that, you should be able to view the application at `localhost:8000`!
 
 ### Notes
 
- * I called this project "General" both after General Sheridan, and because it eventually should be a turnkey solution for other communities to make their own characters, hence "general". Eh, it kinda works. I think anyone else has only ever called it "the General Sheridan project".
+ * I called this project "General" both after General Sheridan, and because it eventually should be a turnkey solution for other communities to make their own characters, hence "general".  I think anyone else has only ever called it "the General Sheridan project".
  * If you don't know why 1831 was chosen as the port number for the websocket, you should probably do more history research before working on this project.
  * There's an RDF file with full source information (or at least as full as I have): that's intended to be loaded into Zotero, form Zotero you can view and edit them, create bibliographies, whatever
  * There's a git repo set up in here with the critical files tracked. I've only been comitting occasionally, but at least always with (reasonably) stable code. There's no remote for the repo, so it's not on GitHub or anything.
-   * It almost certainly doesn't matter, but I've signed the commits just in case. It's the same key I [use on my GitHub](https://github.com/Eiim/MinecraftSoundReconstructor/commit/abe86605b224cac2d267e77e794b7d4f9daa7c80). The ID is BD5C277B544A867D.
+   * It almost certainly doesn't matter, but I've signed the commits just in case. The ID is BD5C277B544A867D.
  * Of course, remove the `--dev` flag from Sanic if running in prod.
  * There's a Langchain API key setting in there, for use with Langsmith. I recommend checking this out for some dev testing at least, because it's very useful for debugging your model. You'll need your own API key. Put it in the environment variable manually, doing it programatically doesn't work for some reason (at least on Windows).
  * We've talked about using cloud hardware instead of local hardware for running the LLM. It's remarkably easy to do so with Langchain. You might notice a commented out line in `llm.py` loading the llm with Baseten instead of Ollama. Unfortunately you can't just swap out these lines, there's some more code changes that need to happen to make history work, but it's pretty close. However, the bigger issue is that Baesten instances take minutes to load, at which point you might as well just run locally. If you want to explore this path, here's some more thoughts on cloud GPU:
