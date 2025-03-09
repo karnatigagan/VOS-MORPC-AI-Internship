@@ -7,7 +7,7 @@ The General Sheridan Project is a complex AI and historical simulation tool desi
 
 historical simulation tool designed around AI-powered interaction, utilizing cutting-edge language models (LLaMA 3) fine-tuned to simulate complex historical characters. The project blends NLP, web development, ethical considerations, and historical research, with future aspirations of expanding to other communities and improving the technical foundation. The main challenges revolve around fine-tuning the models for a nuanced and accurate portrayal of historical figures and handling the computational demands of running large language models.
 
-- Will be using M3 Max Macbook Pro to run this project. Utilizing M3 Max resources - Latest and Highest end Laptop from Apple...
+- Will be using M3 Max Macbook Pro to run this project. Utilizing M3 Max resources
 - M3 Max GPU comparable to a low end latest RTX 4060 Nvidia GPU.
 
 
